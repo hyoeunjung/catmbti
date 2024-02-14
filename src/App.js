@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import Home from "./pages/Home/Home";
-import Question from "./pages/Question";
+import Question from "./pages/Question/Question";
 import Result from "./pages/Result";
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
