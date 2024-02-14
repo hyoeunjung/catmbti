@@ -10,6 +10,7 @@ export const Header = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: "Pretendard";
 `;
 
 export const Contents = styled.div`
@@ -22,6 +23,7 @@ export const Contents = styled.div`
 export const Title = styled.div`
   font-size: 30px;
   margin-top: 40px;
+  font-family: "Pretendard";
 `;
 
 export const LogoImage = styled.div`
@@ -31,4 +33,5 @@ export const LogoImage = styled.div`
 export const Desc = styled.div`
   font-size: 20px;
   margin-top: 20px;
+  font-family: "Pretendard";
 `;
